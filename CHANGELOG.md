@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-26)
+## Unreleased (2025-05-27)
 
 <section class="features">
 
@@ -16,12 +16,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`b0eea3a`](https://github.com/stdlib-js/stdlib/commit/b0eea3afaee1bdd3f14826bc9a92a92e68b51d17) - update implementation to preserve signed zeros
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`b0eea3a`](https://github.com/stdlib-js/stdlib/commit/b0eea3afaee1bdd3f14826bc9a92a92e68b51d17) - **fix:** update implementation to preserve signed zeros _(by Athan Reines)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`090e47b`](https://github.com/stdlib-js/stdlib/commit/090e47b8d61456a35d74abcb39467e107d34ebe5) - **style:** remove decimals _(by Athan Reines)_
 -   [`99388d1`](https://github.com/stdlib-js/stdlib/commit/99388d1aeabe238c519707b8e08843a4bdeb04d4) - **test:** fix grammar in descriptions _(by Athan Reines)_
